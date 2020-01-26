@@ -1,0 +1,6 @@
+rtile.rb &
+tic termite.terminfo &
+~/.fehbg &
+compton &
+cd /home/jujey/Documents/startpage
+python -m SimpleHTTPServer 8085 &

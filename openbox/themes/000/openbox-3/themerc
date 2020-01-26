@@ -1,0 +1,40 @@
+# Openbox colors, generated using gencol
+window.active.title.bg.color: #000000
+window.inactive.title.bg.color: #000000
+window.active.label.text.color: #ffffff
+window.inactive.label.text.color: #ffffff
+window.*.button.*.image.color: #ffffff
+menu*.bg.color: #000000
+menu*.text.color: #ffffff
+menu.border.color: #000000
+menu.separator.color: #000000
+
+# Borders
+border.width: 0
+window.active.border.color: #ffffff
+
+
+# Hide bloat
+window.handle.width: 0
+window.client.padding.width: 0
+
+# Title
+
+# Add some padding
+padding.width: 7
+padding.height: 7
+
+# Set title colors
+window.*.title.bg: Solid Flat
+window.*.*.bg: Parentrelative
+window.label.text.justify: center
+
+# Menu
+menu.overlap.x: -2
+menu.*.bg: flat solid
+menu.*.bg.color: #000000
+menu.*.color: #505050
+menu.title.text.color: #ffffff
+menu.items.text.color: #505050
+menu.items.active.text.color: #aaaaaa
+menu.title.text.justify: center

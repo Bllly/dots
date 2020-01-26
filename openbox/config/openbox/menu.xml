@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu id="apps-net-menu" label="Internet">
+		<item label="Firefox">
+			<action name="Execute">
+				<command>firefox</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+					<wmclass>Firefox</wmclass>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Discord">
+			<action name="Execute">
+				<execute>discord</execute>
+			</action>
+		</item>
+		<item label="Steam">
+			<action name="Execute">
+				<execute>steam</execute>
+			</action>
+		</item>
+		<item label="Spotify">
+			<action name="Execute">
+				<execute>spotify</execute>
+			</action>
+		</item>
+		<item label="Stremio">
+			<action name="Execute">
+				<execute>stremio</execute>
+			</action>
+		</item>
+		<item label="Thunderbird">
+			<action name="Execute">
+				<execute>thunderbird</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-fileman-menu" label="File Managers">
+		<item label="Nautilus">
+			<action name="Execute">
+				<command>nautilus --no-desktop --browser</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-graphics-menu" label="Graphics">
+		<item label="Gedit">
+			<action name="Execute">
+				<execute>gedit</execute>
+			</action>
+		</item>
+		<item label="Kdenlive">
+			<action name="Execute">
+				<execute>kdenlive</execute>
+			</action>
+		</item>
+		<item label="Gimp">
+			<action name="Execute">
+				<command>gimp</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="root-menu" label="Openbox 3">
+		<separator label="Applications"/>
+		<menu id="root-menu-65853" label="Games">
+			<item label="Minecraft-Launcher">
+				<action name="Execute">
+					<execute>/home/jujey/Documents/minecraft-launcher/minecraft-launcher</execute>
+				</action>
+			</item>
+			<item label="CataclysmDDA">
+				<action name="Execute">
+					<execute>/home/jujey/Documents/cataclysmdda/cataclysm-launcher</execute>
+				</action>
+			</item>
+			<item label="Quake">
+				<action name="Execute">
+					<execute>/home/jujey/Documents/quakegamer/ezquake-linux-x86_64</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="apps-accessories-menu"/>
+		<menu id="apps-editors-menu"/>
+		<menu id="apps-graphics-menu"/>
+		<menu id="apps-net-menu"/>
+		<menu id="apps-office-menu"/>
+		<menu id="apps-multimedia-menu"/>
+		<menu id="apps-term-menu"/>
+		<separator label="System"/>
+		<menu id="system-menu"/>
+		<item label="Reconfigure">
+			<action name="Execute">
+				<execute>openbox --reconfigure</execute>
+			</action>
+		</item>
+		<item label="Log Out">
+			<action name="Exit">
+				<prompt>yes</prompt>
+			</action>
+		</item>
+		<item label="Power Off">
+			<action name="Execute">
+				<execute>shutdown now</execute>
+			</action>
+		</item>
+	</menu>
+</openbox_menu>
