@@ -12,7 +12,8 @@ menu.separator.color: #071D22
 window.handle.width: 0
 window.client.padding.width: 0
 
-# Title
+# Borders
+border.width: 0
 
 # Add some padding
 padding.width: 7
@@ -29,6 +30,6 @@ menu.*.bg: flat solid
 menu.*.bg.color: #071D22
 menu.*.color: #071D22
 menu.title.text.color: #6A74FC
-menu.items.text.color: #8591FF
+menu.items.text.color: #ffffff
 menu.items.active.text.color: #6A74FC
 menu.title.text.justify: center
