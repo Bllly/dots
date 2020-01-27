@@ -7,7 +7,7 @@
     "default_guild": null,
     "default_channel": null,
     "mention_color": "#0cb375",
-    "default_color": "#ffffff",
+    "default_color": "#8591FF",
     "prompt": "➜ ",
     "show_date": false,
     "show_time": false,
