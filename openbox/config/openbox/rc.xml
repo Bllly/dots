@@ -40,7 +40,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Natura</name>
+    <name>clean</name>
     <titleLayout/>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -212,13 +212,13 @@
     <keybind key="W-p">
       <action name="Execute">
         <name>Screenshot</name>
-	<command>scrot Pictures/scrot</command>
+        <command>scrot Pictures/scrot</command>
       </action>
     </keybind>
     <keybind key="W-S-p">
       <action name="Execute">
         <name>Screenshot</name>
-	<command>scrot -s Pictures/scrot-s</command>
+        <command>scrot -s Pictures/scrot-s</command>
       </action>
     </keybind>
     <keybind key="W-Return">
@@ -237,7 +237,7 @@
     </keybind>
     <keybind key="A-Tab">
       <action name="NextWindow">
-        <dialog>list</dialog>
+        <dialog>none</dialog>
         <bar>no</bar>
         <finalactions>
           <action name="Focus"/>
@@ -838,7 +838,7 @@
   </menu>
   <applications>
     <application class="*">
-      <decor>no</decor>
+      <decor>yes</decor>
     </application>
   </applications>
 </openbox_config>
