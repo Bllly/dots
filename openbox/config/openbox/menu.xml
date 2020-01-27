@@ -12,7 +12,7 @@
 		</item>
 		<item label="Discord">
 			<action name="Execute">
-				<execute>discord</execute>
+				<execute>/home/jujey/discord/discord</execute>
 			</action>
 		</item>
 		<item label="Steam">
@@ -20,29 +20,9 @@
 				<execute>steam</execute>
 			</action>
 		</item>
-		<item label="Spotify">
-			<action name="Execute">
-				<execute>spotify</execute>
-			</action>
-		</item>
 		<item label="Stremio">
 			<action name="Execute">
 				<execute>stremio</execute>
-			</action>
-		</item>
-		<item label="Thunderbird">
-			<action name="Execute">
-				<execute>thunderbird</execute>
-			</action>
-		</item>
-	</menu>
-	<menu id="apps-fileman-menu" label="File Managers">
-		<item label="Nautilus">
-			<action name="Execute">
-				<command>nautilus --no-desktop --browser</command>
-				<startupnotify>
-					<enabled>yes</enabled>
-				</startupnotify>
 			</action>
 		</item>
 	</menu>
@@ -89,6 +69,13 @@
 		<menu id="apps-editors-menu"/>
 		<menu id="apps-graphics-menu"/>
 		<menu id="apps-net-menu"/>
+		<menu id="root-menu-74343" label="File Manager">
+			<item label="Nautilus">
+				<action name="Execute">
+					<execute>nautilus</execute>
+				</action>
+			</item>
+		</menu>
 		<menu id="apps-office-menu"/>
 		<menu id="apps-multimedia-menu"/>
 		<menu id="apps-term-menu"/>
