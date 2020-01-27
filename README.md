@@ -47,7 +47,7 @@ light
 [termite](https://www.archlinux.org/packages/community/x86_64/termite/) **/**
 [fff](https://github.com/dylanaraps/fff) **/**
 [terminal-discord](https://github.com/xynxynxyn/terminal-discord) **/**
-[stremio](https://github.com/alexandru-balan/Stremio-Install-Scripts/blob/master/installStremioSolus.sh) **/**
+[stremio](https://github.com/jujey/dots/blob/master/openbox/installStremioSolus.sh) **/**
 [pfetch](https://github.com/dylanaraps/pfetch) **/**
 [unimatrix](https://github.com/will8211/unimatrix) **/**
 [rtile](https://github.com/xhsdf/rtile) **/**
