@@ -258,10 +258,10 @@
     <keybind key="W-r">
       <action name="Resize"/>
     </keybind>
-    <keybind key="W-S-u">
+    <keybind key="W-S-x">
       <action name="Undecorate"/>
     </keybind>
-    <keybind key="W-u">
+    <keybind key="W-x">
       <action name="Decorate"/>
     </keybind>
     <keybind key="W-l">
