@@ -8,7 +8,7 @@
     "default_channel": null,
     "mention_color": "#0cb375",
     "default_color": "#8591FF",
-    "prompt": "➜ ",
+    "prompt": "",
     "show_date": false,
     "show_time": false,
     "use_nickname": true,
