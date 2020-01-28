@@ -258,9 +258,6 @@
     <keybind key="W-r">
       <action name="Resize"/>
     </keybind>
-    <keybind key="W-m">
-      <action name="Move"/>
-    </keybind>
     <keybind key="W-S-u">
       <action name="Undecorate"/>
     </keybind>
@@ -271,6 +268,30 @@
       <action name="MoveRelative">
         <x>20</x>
         <y>0</y>
+      </action>
+    </keybind>
+    <keybind key="W-y">
+      <action name="MoveRelative">
+        <x>-20</x>
+        <y>-20</y>
+      </action>
+    </keybind>
+    <keybind key="W-u">
+      <action name="MoveRelative">
+        <x>20</x>
+        <y>-20</y>
+      </action>
+    </keybind>
+    <keybind key="W-b">
+      <action name="MoveRelative">
+        <x>-20</x>
+        <y>20</y>
+      </action>
+    </keybind>
+    <keybind key="W-n">
+      <action name="MoveRelative">
+        <x>20</x>
+        <y>20</y>
       </action>
     </keybind>
     <keybind key="W-h">
