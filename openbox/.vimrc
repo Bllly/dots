@@ -1,4 +1,4 @@
-colorscheme default
+colorscheme ron
 set laststatus=2
 set statusline=%F
 set statusline+=%=
