@@ -212,13 +212,13 @@
     <keybind key="W-p">
       <action name="Execute">
         <name>Screenshot</name>
-        <command>scrot Pictures/scrot</command>
+        <command>scrot Pictures/scrot.png</command>
       </action>
     </keybind>
     <keybind key="W-S-p">
       <action name="Execute">
         <name>Screenshot</name>
-        <command>scrot -s Pictures/scrot-s</command>
+        <command>scrot -s Pictures/scrot-s.png</command>
       </action>
     </keybind>
     <keybind key="W-Return">
