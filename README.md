@@ -1,6 +1,6 @@
 # Screenshots
 ## -clean
-![clean](https://i.imgur.com/gnMUcuD.png)
+![clean](https://i.imgur.com/nG9FKGX.png)
 ## -River
 ![River](https://i.imgur.com/d6Z1DBe.png)
 ## -flow
