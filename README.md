@@ -40,7 +40,8 @@
 
 ```
 gnome-terminal
-Eye Of Gnome
+gnome-screenshot
+eog
 slick-greeter
 gnome-mpv
 thunderbird
