@@ -36,7 +36,6 @@ feh
 python
 pipes-sh
 cava
-simplescreenrecorder
 mpv
 steam
 kdenlive
