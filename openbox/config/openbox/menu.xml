@@ -12,7 +12,7 @@
 		</item>
 		<item label="Discord">
 			<action name="Execute">
-				<execute>/home/jujey/discord/discord</execute>
+				<execute>/home/jujey/discord/Discord</execute>
 			</action>
 		</item>
 		<item label="Steam">
@@ -93,7 +93,7 @@
 		</item>
 		<item label="Power Off">
 			<action name="Execute">
-				<execute>shutdown now</execute>
+				<execute>shutdown</execute>
 			</action>
 		</item>
 	</menu>
