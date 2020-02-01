@@ -46,6 +46,7 @@ eog
 slick-greeter
 gnome-mpv
 thunderbird
+rhythmbox
 ```
 
 # Ethernet Fix 
