@@ -12,7 +12,7 @@
 		</item>
 		<item label="Discord">
 			<action name="Execute">
-				<execute>/home/jujey/discord/Discord</execute>
+				<execute>discord</execute>
 			</action>
 		</item>
 		<item label="Steam">
