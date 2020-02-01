@@ -35,6 +35,7 @@
 [rtile](https://github.com/xhsdf/rtile) **/**
 [corrupter](https://github.com/r00tman/corrupter) **/**
 [nativefier](https://github.com/jiahaog/Nativefier) **/**
+[pywal](https://github.com/dylanaraps/pywal) **/**
 
 ## -REMOVE
 
