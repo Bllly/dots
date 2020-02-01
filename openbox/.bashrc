@@ -8,7 +8,7 @@ PS1="\[\033[1;37m\] ➜ \[\033[0;37m\] "
 
 # aliases
 
-alias 'v'='vim'
+alias 'v'='nvim'
 alias 'm'='mpv'
 alias 'add'='sudo eopkg install'
 alias 'del'='sudo eopkg remove'
