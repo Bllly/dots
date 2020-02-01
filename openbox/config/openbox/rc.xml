@@ -205,11 +205,9 @@
     </keybind>
     <keybind key="W-d">
       <action name="Execute">
-        <name>dmenu</name>
-        <command>dmenu_run -fn 'Roboto-9' -nb "#1B1B1B" -nf "#aaaaaa" -sb "#aaaaaa" -sf "#202020"</command>
+	      <command>./dmen.sh</command>
       </action>
-    </keybind>
-    <keybind key="W-p">
+    </keybind>    <keybind key="W-p">
       <action name="Execute">
         <name>Screenshot</name>
         <command>scrot Pictures/scrot.png</command>
