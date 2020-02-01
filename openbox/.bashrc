@@ -16,6 +16,7 @@ alias 'up'='sudo eopkg upgrade'
 alias 'matrix'='unimatrix'
 alias 'pipes'='pipes.sh'
 alias 'tcord'='terminal-discord'
+alias 'fetch'='pfetch'
 
 # pywal
 
