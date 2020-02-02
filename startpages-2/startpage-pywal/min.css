@@ -10,7 +10,7 @@ ul {
 input {
   width: 25%;
   color: var(--color7);
-  background-color: #101010;
+  background-color: rgba(0,0,0,.5);
   border: 3px solid transparent;
   border-bottom: 3px solid transparent;
   margin: 0;
