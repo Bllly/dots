@@ -3,6 +3,10 @@
 # old (video)
 [userChrome.css](https://i.imgur.com/2qM2LSQ.mp4)
 
+## pywal
+
+to use this, copy `colors.css` from `.cache/wal/` and paste it on the same location as `min.css` and `min.html`
+
 # how to
 
 ## ➜ activate userChrome.css
