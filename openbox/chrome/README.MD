@@ -21,4 +21,4 @@ set `widget.content.gtk-theme-override` to `Plata-Noir`
 
 ## pywal-integration
 
-to use this, copy `colors.css` from `.cache/wal/` and paste it on the same location as `min.css` and `min.html`
+to use this, copy `colors.css` from `.cache/wal/` and paste it on the same location as `userChrome.css`
