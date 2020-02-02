@@ -1,8 +1,26 @@
+@import 'colors.css';
+
+toolbar#TabsToolbar {
+	-moz-appearance: none !important;
+	background-color: var(--background);
+}
+
+.tabbrowser-tab, .tab-stack, .tab-background, .tab-background-inner{
+	background-color: transparent !important;
+}
+
+.tabbrowser-tab[multiselected="true"] > .tab-stack > .tab-background,
+.tabbrowser-tab[multiselected="true"] > .tab-stack > .tab-background > .tab-background-inner{
+  background-color: transparent !important;
+}
+
 #forward-button, #back-button {
 	display: none !important;
 }
 
 #nav-bar {
+     -moz-appearance: none !important;
+     background-color: var(--background);
      min-height: 0 !important;
      max-height: 0 !important;
      height: 0 !important;
