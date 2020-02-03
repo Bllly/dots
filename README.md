@@ -47,6 +47,7 @@ slick-greeter
 gnome-mpv
 thunderbird
 rhythmbox
+hexchat
 ```
 
 # Ethernet Fix 
