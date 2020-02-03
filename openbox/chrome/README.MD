@@ -19,6 +19,6 @@ set `extensions.pocket.enabled` to `false`
 `about:config`
 set `widget.content.gtk-theme-override` to `Plata-Noir`
 
-## pywal-integration
+# pywal-integration
 
 to use this, copy `colors.css` from `.cache/wal/` and paste it on the same location as `userChrome.css`
