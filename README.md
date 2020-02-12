@@ -51,12 +51,6 @@ rhythmbox
 hexchat
 ```
 
-# Ethernet Fix 
-```
-sudo modprobe -r r8169 
-sudo modprobe -i r8169
-```
-
 # Python Server - Local Host
 ```
 cd <where the local file(s) are>
