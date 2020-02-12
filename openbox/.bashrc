@@ -1,5 +1,3 @@
-source /usr/share/defaults/etc/profile
-
 # prompt
 
 #PS1="\[\033[2;37m\] \w \[\033[0;37m\] » "
