@@ -8,9 +8,9 @@ PS1="\[\033[1;37m\]-> \[\033[0;37m\] "
 
 alias 'v'='nvim'
 alias 'm'='mpv'
-alias 'add'='sudo eopkg install'
-alias 'del'='sudo eopkg remove'
-alias 'up'='sudo eopkg upgrade'
+alias 'add'='sudo apt install'
+alias 'del'='sudo apt remove'
+alias 'up'='sudo apt upgrade'
 alias 'matrix'='unimatrix'
 alias 'pipes'='pipes.sh'
 alias 'tcord'='terminal-discord'
