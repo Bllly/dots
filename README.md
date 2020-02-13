@@ -28,7 +28,6 @@
 
 `openbox dmenu obconf lxappearance cmus lightdm-gtk-greeter-settings lightdm-gtk-greeter feh mpv steam kdenlive gimp neovim scrot compton git`
 
-[termite](https://www.archlinux.org/packages/community/x86_64/termite/) **/**
 [fff](https://github.com/dylanaraps/fff) **/**
 [terminal-discord](https://github.com/xynxynxyn/terminal-discord) **/**
 [pfetch](https://github.com/dylanaraps/pfetch) **/**
