@@ -49,7 +49,7 @@ rhythmbox
 hexchat
 ```
 
-# Python Server - Local Host
+# Python Server - Local Host (not used anymore)
 ```
 cd <where the local file(s) are>
 python -m SimpleHTTPServer 8085
