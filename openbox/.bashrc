@@ -15,7 +15,7 @@ alias 'matrix'='unimatrix'
 alias 'pipes'='pipes.sh'
 alias 'tcord'='terminal-discord'
 alias 'fetch'='pfetch'
-alias 'clock'='tty-clock'
+alias 'clock'='rsclock'
 
 # pywal
 
