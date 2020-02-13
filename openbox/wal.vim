@@ -32,7 +32,7 @@ hi Number ctermbg=NONE ctermfg=3
 hi Todo ctermbg=2 ctermfg=0
 hi Type ctermbg=NONE ctermfg=3
 hi Underlined ctermbg=NONE ctermfg=1 cterm=underline
-hi StatusLine ctermbg=0 ctermfg=2
+hi StatusLine ctermbg=0 ctermfg=1
 hi StatusLineNC ctermbg=8 ctermfg=0
 hi TabLine ctermbg=NONE ctermfg=8
 hi TabLineFill ctermbg=NONE ctermfg=8
