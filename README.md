@@ -26,7 +26,7 @@
 
 ## -INSTALL
 
-`openbox dmenu obconf lxappearance cmus lightdm-gtk-greeter-settings lightdm-gtk-greeter feh mpv steam kdenlive gimp neovim scrot compton git`
+`openbox dmenu obconf lxappearance cmus lightdm-gtk-greeter-settings lightdm-gtk-greeter feh mpv steam kdenlive gimp neovim scrot compton git light`
 
 [fff](https://github.com/dylanaraps/fff) **/**
 [terminal-discord](https://github.com/xynxynxyn/terminal-discord) **/**
