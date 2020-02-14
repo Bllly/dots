@@ -1,4 +1,6 @@
 # Screenshots
+## -cream
+![cream](https://i.imgur.com/MyDAQxZ.png)
 ## -sunset
 ![sunset](https://i.imgur.com/gpFZ0bR.png)
 ## -clean
